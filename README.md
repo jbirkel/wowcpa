@@ -102,7 +102,7 @@ Wrote output to: json/questsToDo-Smolderthorn-Skinn-Nagrand.json
 </samp>  
 
 - <samp>
-$node wowcpa.js -petname 195  
+node wowcpa.js -petname 195  
 White Tickbird Hatchling
 </samp>  
 
