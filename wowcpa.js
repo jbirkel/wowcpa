@@ -217,6 +217,9 @@ else
 
 // -----------------------------------------------------------------------------
 // For a given character, realm and region, list all uncompleted quests.
+// Requires:
+//   -- '-myquests' output for the given player and realm
+//   -- '-questlist' output (FN_questList)
 // -----------------------------------------------------------------------------
 if (Argv[2] == "-queststodo") {
     var cfg   = USER.pets;
@@ -505,7 +508,7 @@ if (Argv[2] == "-itemid") {
 	    var len = list.length;
 	    for (var i=0; i<len; i++) {
 		if (list[i].name == itemName) {
-		    util.puts(item.id);
+		    util.puts(list[i].id);
 		    break;
 		}
 	    }
