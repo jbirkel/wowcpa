@@ -7,5 +7,6 @@
 	    { "realm":"Smolderthorn" , "faction":"horde"    },
 	    { "realm":"Nesingwary"   , "faction":"alliance" } 
 	]
-    } ,
+    } 
+
 }

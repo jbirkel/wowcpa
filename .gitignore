@@ -3,6 +3,7 @@
 
 # exceptions
 !user-data.json
+!pet-types.json
 
 # backups, temporaries
 *.*#
