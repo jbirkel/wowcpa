@@ -1,0 +1,11 @@
+{ 
+    "pets": {
+	"home" : "Smolderthorn",
+	"main" : "Skinn",
+	"maxbuy": 10000000, 
+	"ahlist": [
+	    { "realm":"Smolderthorn" , "faction":"horde"    },
+	    { "realm":"Nesingwary"   , "faction":"alliance" } 
+	]
+    } ,
+}

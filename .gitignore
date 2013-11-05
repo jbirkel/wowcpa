@@ -1,0 +1,13 @@
+# json output files
+*.json
+
+# exceptions
+!user-data.json
+
+# backups, temporaries
+*.*#
+*.*~
+nano.save*
+
+# work files not for archiving
+resttest.js
