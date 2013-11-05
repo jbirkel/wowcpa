@@ -1,4 +1,4 @@
 wowcpa
 ======
 
-Javascript calls to the World of Warcraft Community Public API
+Javascript (Node) console program that provides command-line access to the World of Warcraft Community Public API.
